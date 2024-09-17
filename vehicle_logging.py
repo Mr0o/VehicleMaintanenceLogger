@@ -7,7 +7,6 @@ from PyQt5.QtWidgets import (
     QFileDialog, QMessageBox, QTableWidget, QTableWidgetItem, QLineEdit, QDialog,
     QFormLayout, QHeaderView
 )
-from PyQt5.QtCore import Qt
 
 class OilChangeLogApp(QWidget):
     def __init__(self):
